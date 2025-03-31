@@ -1,1 +1,1 @@
-This is just my personal list. Totally up to you if you wanna use it or not.
+This is my list of spam domains. You are free to use it on your own risk.
