@@ -538,7 +538,7 @@
 /^49russ-gov\.ru$/i
 /^jufe1\.ru$/i
 /^seminar47post\.ru$/i
-/.*\.bitte20\.in\.ua$/i
+/^.*\.bitte20\.in\.ua$/i
 /^48msk-gov\.ru$/i
 /^vectorbusiness\.ru$/i
 /^kurs-seminarov\.ru$/i
@@ -546,7 +546,7 @@
 /^intersport\.biz\.ua$/i
 /^flowers-kazan\.ru$/i
 /^videoazino\.ru$/i
-/.*\.banganet\.com$/i
+/^.*\.banganet\.com$/i
 /^orbitastar\.ru$/i
 /^domvistra\.ru$/i
 /^drken\.us$/i
@@ -563,7 +563,7 @@
 /^ventimail\.ru$/i
 /^neva-park\.ru$/i
 /^sylvia-bum\.ga$/i
-/.*\.smbn\.ru$/i
+/^.*\.smbn\.ru$/i
 /^thousandth-coffey\.ga$/i
 /^truman-manhole\.cf$/i
 /^decapod-signpost\.tk$/i
@@ -594,7 +594,7 @@
 /^49sem-pr\.ru$/i
 /^lie-sigh\.ml$/i
 /^dugout-singapore\.ga$/i
-/.*\.hinet\.net$/i
+/^.*\.hinet\.net$/i
 /^eat-doze\.gq$/i
 /^hydromousse\.ga$/i
 /^beermarket\.ru$/i
@@ -609,7 +609,7 @@
 /^cyanate-fidelity\.ml$/i
 /^troglodyte-kampuchea\.tk$/i
 /^massachusetts-tanaka\.gq$/i
-/.*\.cgocable\.ca$/i
+/^.*\.cgocable\.ca$/i
 /^caption-villain\.ga$/i
 /^pomp-salina\.cf$/i
 /^sung-coplanar\.cf$/i
@@ -1308,7 +1308,7 @@
 /^trupublica\.com$/i
 /^39ros-pr\.ru$/i
 /^waynemcclay\.com$/i
-/.*\.ya-busines\.ru$/i
+/^.*\.ya-busines\.ru$/i
 /^travelnursestation\.com$/i
 /^ariamelanie\.com$/i
 /^thepassportproject\.com$/i
@@ -1567,7 +1567,7 @@
 /^nilok\.ru$/i
 /^gazlife\.biz\.ua$/i
 /^vilkov\.biz\.ua$/i
-/.*\.trans-lateplus\.ru$/i
+/^.*\.trans-lateplus\.ru$/i
 /^bamaksan\.net$/i
 /^tet\.yoursender\.pp\.ua$/i
 /^pravdametod\.ru$/i
@@ -1810,7 +1810,7 @@
 /^abusesend\.ru$/i
 /^marmaris-events\.ru$/i
 /^72advert\.ru$/i
-/.*\.kupiotpusk\.ru$/i
+/^.*\.kupiotpusk\.ru$/i
 /^vukon\.ru$/i
 /^ctmo\.ru$/i
 /^cirol\.ru$/i
@@ -1936,7 +1936,7 @@
 /^ex-project\.bid$/i
 /^logoss3\.ru$/i
 /^active-kuz\.ru$/i
-/.*\.uralprom2\.ru$/i
+/^.*\.uralprom2\.ru$/i
 /^konferensiivmoskve\.ru$/i
 /^srato\.ru$/i
 /^iun2017\.ru$/i
@@ -2024,7 +2024,7 @@
 /^vuren\.ru$/i
 /^2goal\.biz$/i
 /^volganot\.ru$/i
-/.*\.maxi-m\.com$/i
+/^.*\.maxi-m\.com$/i
 /^ya-kazan\.ru$/i
 /^nalir\.ru$/i
 /^rosorgsem\.ru$/i
@@ -2150,7 +2150,7 @@
 /^comline\.ru$/i
 /^whoreadingmail\.ru$/i
 /^nytum\.ru$/i
-/.*\.convertmonstermail\.ru$/i
+/^.*\.convertmonstermail\.ru$/i
 /^carbail\.ru$/i
 /^big-dengi\.ru$/i
 /^vrema-dengi\.ru$/i
@@ -2182,7 +2182,7 @@
 /^zoomastera\.ru$/i
 /^polopoersrt\.ru$/i
 /^slopstartswe\.ru$/i
-/.*\.change\.org$/i
+/^.*\.change\.org$/i
 /^object10\.ru$/i
 /^softline-direct\.ru$/i
 /^heraldmaster\.ga$/i
@@ -2205,8 +2205,8 @@
 /^clubcrocodile\.ru$/i
 /^blackmask-magazin\.ru$/i
 /^atmosfera-shop\.ru$/i
-/.*\.rosstour\.ru$/i
-/.*\.getwiper\.ru$/i
+/^.*\.rosstour\.ru$/i
+/^.*\.getwiper\.ru$/i
 /^heraldmaster\.gq$/i
 /^direct14\.ru$/i
 /^tkolu\.ru$/i
@@ -2251,12 +2251,12 @@
 /^okayface\.ru$/i
 /^obrazovanie\.me$/i
 /^nonice\.eu$/i
-/.*\.az\.us$/i
+/^.*\.az\.us$/i
 /^proikago\.ru$/i
 /^htcforum\.eu$/i
 /^klasev\.ru$/i
 /^centerint\.ru$/i
-/.*\.emailsrassylka\.ru$/i
+/^.*\.emailsrassylka\.ru$/i
 /^carscout24\.ru$/i
 /^cybermarketing\.ru$/i
 /^prostosd\.ru$/i
@@ -2316,7 +2316,7 @@
 /^indecoexpert\.ru$/i
 /^degha\.ru$/i
 /^botyr\.ru$/i
-/.*\.glav-dostavka\.com$/i
+/^.*\.glav-dostavka\.com$/i
 /^pomogemhramu\.ru$/i
 /^isg-consult\.com$/i
 /^logos14\.ru$/i
@@ -2413,7 +2413,7 @@
 /^zmailc\.ru$/i
 /^01pizza\.ru$/i
 /^ictex\.ru$/i
-/.*\.your\.ru\.com$/i
+/^.*\.your\.ru\.com$/i
 /^hopsr\.ru$/i
 /^briz23vl\.ru$/i
 /^duwast\.ru$/i
@@ -2830,7 +2830,7 @@
 /^romty\.ru$/i
 /^partner2x2\.ru$/i
 /^dressrite\.biz$/i
-/.*\.foto59\.ru$/i
+/^.*\.foto59\.ru$/i
 /^rus-xxx\.ru$/i
 /^mutbo\.ru$/i
 /^zormo\.ru$/i
@@ -2933,7 +2933,7 @@
 /^wokre\.ru$/i
 /^infosysmarket\.ru$/i
 /^flat-ice\.ru$/i
-/.*\.bczfw\.net$/i
+/^.*\.bczfw\.net$/i
 /^zeminationes\.ru$/i
 /^btforum\.ru$/i
 /^belleza-new\.ru$/i
@@ -2941,7 +2941,7 @@
 /^informeste\.ru$/i
 /^mp3mw\.ru$/i
 /^stl\.ru$/i
-/.*\.mailchimpapp\.com$/i
+/^.*\.mailchimpapp\.com$/i
 /^karmello\.pl$/i
 /^pb\.ru$/i
 /^interlatestsocialbookmarking\.biz$/i
@@ -3065,7 +3065,7 @@
 /^behat\.ru$/i
 /^tutet\.ru$/i
 /^mpeg-imx\.ru$/i
-/.*\.clientbase\.ru$/i
+/^.*\.clientbase\.ru$/i
 /^goldintent\.com$/i
 /^lookingers\.eu$/i
 /^cooperhant\.ru$/i
@@ -3094,7 +3094,7 @@
 /^subriror\.ru$/i
 /^kolleginews\.ru$/i
 /^24mos-rass\.ru$/i
-/.*\.kari\.com$/i
+/^.*\.kari\.com$/i
 /^vbiznesa\.ru$/i
 /^reklamaroomidea\.ru$/i
 /^bk63\.ru$/i
@@ -3102,9 +3102,9 @@
 /^xapeb\.ru$/i
 /^seminar14post\.ru$/i
 /^kinako\.org$/i
-/.*\.pierrericaud\.com$/i
+/^.*\.pierrericaud\.com$/i
 /^maot16\.ru$/i
-/.*\.kuponator\.ru$/i
+/^.*\.kuponator\.ru$/i
 /^24inst-rass\.ru$/i
 /^floridelux\.ro$/i
 /^bfsamara\.ru$/i
@@ -3114,7 +3114,7 @@
 /^14sem-rass\.ru$/i
 /^vasharabota72\.ru$/i
 /^ekspertyurist\.ru$/i
-/.*\.trade\.su$/i
+/^.*\.trade\.su$/i
 /^contract-center\.ru$/i
 /^ka7-tour\.ru$/i
 /^depervil\.ru$/i
@@ -3140,7 +3140,7 @@
 /^proteus-spb\.ru$/i
 /^logos3\.ru$/i
 /^coldp\.ru$/i
-/.*\.mcdir\.ru$/i
+/^.*\.mcdir\.ru$/i
 /^wesav\.ru$/i
 /^wikyt\.ru$/i
 /^avant-1\.ru$/i
@@ -3164,7 +3164,7 @@
 /^sab-moskau\.ru$/i
 /^iodin\.ru$/i
 /^39mos-glav\.ru$/i
-/.*\.vsalate\.info$/i
+/^.*\.vsalate\.info$/i
 /^lambdafsu\.ru$/i
 /^onken\.ru$/i
 /^biomedex\.ru$/i
@@ -3173,7 +3173,7 @@
 /^goodwin-lang\.ru$/i
 /^21mos-sem\.ru$/i
 /^awreg\.ru$/i
-/.*\.myihor\.ru$/i
+/^.*\.myihor\.ru$/i
 /^merna\.ru$/i
 /^powerstripss\.ru$/i
 /^indexbox\.ru$/i
@@ -3277,7 +3277,7 @@
 /^ntbinfo\.no$/i
 /^vaton\.ru$/i
 /^41sem-gov\.ru$/i
-/.*\.detectim\.com$/i
+/^.*\.detectim\.com$/i
 /^bodad\.ru$/i
 /^logos2\.ru$/i
 /^seminar14mail\.ru$/i
@@ -3286,7 +3286,7 @@
 /^ros-ipk\.ru$/i
 /^casde\.ru$/i
 /^n-cloth\.com$/i
-/.*\.anywayanyday\.com$/i
+/^.*\.anywayanyday\.com$/i
 /^mbastrategy\.ua$/i
 /^sporykhin\.ru$/i
 /^myadvantages\.ru$/i
@@ -3411,10 +3411,10 @@
 /^seminar17sem\.ru$/i
 /^azhoortour\.ru$/i
 /^31sem-sem\.ru$/i
-/.*\.kingcoupon\.ru$/i
+/^.*\.kingcoupon\.ru$/i
 /^24msk-seminar\.ru$/i
 /^21inst-rass\.ru$/i
-/.*\.vsemayki\.ru$/i
+/^.*\.vsemayki\.ru$/i
 /^tosmo\.ru$/i
 /^32msk-seminar\.ru$/i
 /^17ros-rass\.ru$/i
@@ -3653,7 +3653,7 @@
 /^toushop\.ru$/i
 /^tumtipb\.ru$/i
 /^stmiron\.co\.ua$/i
-/.*\.irr\.ru$/i
+/^.*\.irr\.ru$/i
 /^baltic-solutions\.com$/i
 /^exelozine\.eu$/i
 /^bshk\.ru$/i
@@ -3668,11 +3668,11 @@
 /^ufa-help\.ru$/i
 /^chaulan\.ru$/i
 /^fatema\.ru$/i
-/.*\.club-sale\.ru$/i
-/.*\.ochkov\.net$/i
+/^.*\.club-sale\.ru$/i
+/^.*\.ochkov\.net$/i
 /^subscribe\.ru$/i
 /^pornhub\.com$/i
-/.*\.joybuy\.ru$/i
+/^.*\.joybuy\.ru$/i
 /^timepad\.ru$/i
 /^usccb\.org$/i
 /^techcrunch\.com$/i
@@ -3686,7 +3686,7 @@
 /^interboxe\.eu$/i
 /^internetmag\.eu$/i
 /^kolinges\.eu$/i
-/.*\.kupikupon\.ru$/i
+/^.*\.kupikupon\.ru$/i
 /^fendirtoon\.co\.ua$/i
 /^mideltown\.eu$/i
 /^bizneroa\.co\.ua$/i
