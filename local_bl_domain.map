@@ -1,3 +1,8 @@
+/^.*\.quicksrv\.de$/i
+/^planbproyecto\.com$/i
+/^.*\.hotelnetsolutions\.com$/i
+/^send-prom-out-profit\.ru$/i
+/^.*\.identibitsuisse\.ch$/i
 /^.*\.mochahost\.com$/i
 /^.*\.cloudns9\.com$/i
 /^neodast\.ru$/i
@@ -76,6 +81,7 @@
 /^zakonovsending\.ru$/i
 /^.*\.drebcos\.ru$/i
 /^.*\.adsamson\.ru$/i
+/^mayslem\.ru$/i
 /^.*\.mayslem\.ru$/i
 /^gladworksinprogress\.com$/i
 /^mapstory\.ru$/i
