@@ -1,3 +1,8 @@
+/^smartic\.online$/i
+/^.*\.imocstudio\.com$/i
+/^.*\.textcodesoftware\.com$/i
+/^.*\.onlinehome-server\.com$/i
+/^kierenblack\.nz$/i
 /^.*\.2pos\.mx$/i
 /^altaikrol\.ru$/i
 /^.*\.nadracardcentre\.co\.uk$/i
@@ -180,7 +185,6 @@
 /^.*\.inmotionhosting\.com$/i
 /^maddoxa\.ru$/i
 /^ne\.institute$/i
-/^ads-soft\.ru$/i
 /^razdolie\.ru$/i
 /^.*\.top-sem\.ru$/i
 /^topedtechs\.kz$/i
@@ -318,7 +322,6 @@
 /^fin-garanty\.ru$/i
 /^seminar\.org\.ru$/i
 /^academy-everest\.online$/i
-/^ads-soft\.su$/i
 /^xbrl\.ru$/i
 /^iir\.org\.ru$/i
 /^doubleday\.ru$/i
